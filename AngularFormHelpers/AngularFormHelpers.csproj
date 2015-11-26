@@ -154,6 +154,7 @@
     <Compile Include="Library\Helpers\Form\IAngularModelExpression.cs" />
     <Compile Include="Library\Helpers\Form\IAngularRequiredExpression.cs" />
     <Compile Include="Library\Helpers\Form\InputType.cs" />
+    <Compile Include="Library\LabTest\FormBuilder.cs" />
     <Compile Include="Models\TestModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
